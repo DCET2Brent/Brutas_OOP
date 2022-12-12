@@ -1,4 +1,6 @@
-/*The same function lang po ito sir, pero dito it just only need to input 2 values to solve unlike sa another code na ipinasa ko po, there's 3 main inputs and additional 1 input for continuation if ever want uli mag solve ng another problem po*/
+/*The same purpose po ito sir doon sa isa pang code na aking ipinasa po,
+pero dito it just only need to input 2 values to solve and then the
+outputs are automatically presented*/
 
 #include <iostream>
 using namespace std;
